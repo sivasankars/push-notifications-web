@@ -1,0 +1,25 @@
+{
+  "name": "push-notifications-web",
+  "version": "1.0.0",
+  "description": "Push Notification For Web Applications Using Firebase.",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "web-push": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sivasankars"
+  },
+  "keywords": [
+    "Push",
+    "Notifications"
+  ],
+  "author": "Siva Sankar",
+  "license": "ISC"
+}
